@@ -1,0 +1,15 @@
+{
+  "short_name": "KS Jewellery",
+  "name": "KS Jewellery Calculator",
+  "description": "Gold, Silver & Interest Calculator for Jewellery Shop",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#d97706",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "categories": ["business", "finance", "productivity"],
+  "lang": "en-IN",
+  "scope": "/",
+  "prefer_related_applications": false
+}
